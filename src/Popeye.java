@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Popeye {
+public class Popeye {
+  
+  public static void main(String[] args) {
+    
+  }
+  
 }
